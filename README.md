@@ -1,4 +1,4 @@
-![logo](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![logo]([https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
 <h1 align="center">Hi 👋, I'm Harsh Arora</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
