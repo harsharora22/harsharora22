@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQEW5Zt2zQIt2A/profile-displaybackgroundimage-shrink_200_800/0/1678170745018?e=1684972800&v=beta&t=rkEbMVBR1ILzIuY0zl1D4JiC7yq-e96uk_FU4rSMi_A)
+![logo]([https://media.licdn.com/dms/image/D5616AQEW5Zt2zQIt2A/profile-displaybackgroundimage-shrink_200_800/0/1678170745018?e=1684972800&v=beta&t=rkEbMVBR1ILzIuY0zl1D4JiC7yq-e96uk_FU4rSMi_A](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
 <h1 align="center">Hi 👋, I'm Harsh Arora</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
